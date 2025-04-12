@@ -14,3 +14,10 @@
 
 - [🔗 Low-Fidelity Wireframe – VisitNow App](https://www.figma.com/design/VDj6nKcnuuimKec2iECaJF/LF-Wireframe?node-id=269-446&t=RisSpcYH9vksRsxj-1)  
 - [🔗 High-Fidelity Wireframe – VisitNow App](https://www.figma.com/design/VDj6nKcnuuimKec2iECaJF/LF-Wireframe?node-id=0-1&t=RisSpcYH9vksRsxj-1)
+
+
+## Team members
+
+- Yash Chaudhari - 202201229
+- Neel Patel - 202201494
+- Saumya Vasa - 202201254
