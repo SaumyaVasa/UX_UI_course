@@ -14,6 +14,7 @@
 
 - [🔗 Low-Fidelity Wireframe – VisitNow App](https://www.figma.com/design/VDj6nKcnuuimKec2iECaJF/LF-Wireframe?node-id=269-446&t=RisSpcYH9vksRsxj-1)  
 - [🔗 High-Fidelity Wireframe – VisitNow App](https://www.figma.com/design/VDj6nKcnuuimKec2iECaJF/LF-Wireframe?node-id=0-1&t=RisSpcYH9vksRsxj-1)
+- [🔗 Prototype link – VisitNow App](https://www.figma.com/proto/VDj6nKcnuuimKec2iECaJF/LF-Wireframe?node-id=0-1&t=PuA0P9UiREmLTKUs-1)
 
 
 ## Team members
